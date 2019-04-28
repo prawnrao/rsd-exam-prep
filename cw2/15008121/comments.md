@@ -1,0 +1,1 @@
+The time taken to calculate successive generations of branches for tree.py, increases exponentially. The tree_np.py solution has more of a linear trend. For  smaller number of generations tree.py has a better performance, however tree_np.py scales better with size and as a result has much better performance at larger number of generations.

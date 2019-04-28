@@ -1,0 +1,21 @@
+- answer: 1
+  lab:
+    lower:
+    - sub1
+    - sub2
+    upper:
+    - antisub1
+    - antisub1
+- answer: 2
+  lab:
+    lower:
+    - serpyllum
+    - antifirma
+    - antieycholra
+    - psittaccina
+    upper:
+    - alcea
+    - antiinvolucrata
+    - campanula
+    - antiserpyllum
+    - firma
